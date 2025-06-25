@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(26, 25, 25);
+       background-image: url(Z2racetrack-794590_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+
+}
+
+#V8X_Titel{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: rgba(121, 121, 121, 0.486);
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#V8X_Beschreibung{
+    margin: auto;
+    margin-top: 15%;
+    color: aliceblue;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    max-width: 1280px;
+      background-color:  rgba(121, 121, 121, 0.486);
+    padding: 30px;
+    border-radius: 90px;
+     
+}
+
+.BildText1{
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    max-width: 1280px;
+    margin: 50px 0;
+     background-color:  rgba(121, 121, 121, 0.486);
+    padding: 30px;
+    border-radius: 90px;
+}
+
+#Bild1{
+    width: 800px;
+    height: auto;
+    border-radius: 10px;
+    
+}
+
+.Text1{
+    flex: 1;
+}
+
+.V8X_Heck{
+     margin: auto;
+      font-weight: bold;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 20px;
+    max-width: 600px;
+    margin-top: 0;
+}
+
+.BildText2{
+     display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    max-width: 1280px;
+    margin: 50px 0;
+      background-color:  rgba(121, 121, 121, 0.486);
+    padding: 30px;
+    border-radius: 90px;
+}
+
+#Bild2{
+     width: 800px;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+.Text2{
+    flex: 1;
+}
+
+.V8X_Farback{
+     margin: auto;
+      font-weight: bold;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 20px;
+    max-width: 600px;
+    margin-top: 0;
+}
+
+.BildText3{
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    max-width: 1280px;
+    margin: 50px 0;
+      background-color:  rgba(121, 121, 121, 0.486);
+    padding: 30px;
+    border-radius: 90px;
+}
+
+#Bild3{
+    width: 800px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.Text3{
+    flex: 1;
+}
+
+.V8X_Front{
+      margin: auto;
+      font-weight: bold;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 20px;
+    max-width: 600px;
+    margin-top: 0;
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1px;
+    margin-top: 3px;
+}

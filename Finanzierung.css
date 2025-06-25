@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(26, 25, 25); 
+      background-image: url(money-7881948_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+header{
+    font-weight: bold;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color:  rgba(0, 0, 0, 0.486)  ;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.kapitalbedarf{
+     text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 90%;
+    font-weight: bold;
+    background-color: black;
+      background-color:  rgba(66, 66, 66, 0.486);
+    padding: 30px;
+    border-radius: 90px;
+}
+
+.Finanzierung{
+     text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 90%;
+    background-color: black;
+      background-color:   rgba(66, 66, 66, 0.486);
+    padding: 30px;
+    border-radius: 90px;
+}
+
+
+footer {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1px;
+    margin-top: 3px;
+}
